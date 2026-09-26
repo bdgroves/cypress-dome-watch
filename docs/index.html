@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CYPRESS-DOME-WATCH</title>
+<style>
+  :root { --navy:#0b1622; --panel:#111f2e; --line:#1e3246; --teal:#2dd4bf; --text:#d7e3ee; --muted:#7f95aa; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--navy); color:var(--text); font:17px/1.6 -apple-system,"Segoe UI",Inter,sans-serif; padding-inline:20px; }
+  main { max-width:760px; margin:0 auto; padding-block:64px; }
+  .k { font:600 12px/1 ui-monospace,Menlo,monospace; letter-spacing:.16em; text-transform:uppercase; color:var(--teal); }
+  h1 { font-size:clamp(36px,6vw,56px); line-height:1.05; margin:14px 0 18px; letter-spacing:.02em; }
+  p { margin:0 0 1em; }
+  .box { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:20px 22px; margin-top:28px; }
+  .box h2 { font-size:13px; letter-spacing:.14em; text-transform:uppercase; color:var(--muted); margin:0 0 10px; }
+  ul { margin:0; padding-left:1.2em; } li { margin:.3em 0; }
+  a { color:var(--teal); }
+  footer { margin-top:40px; color:var(--muted); font-size:13px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="k">GeoAI & Remote Sensing Lab · under construction</div>
+  <h1>🌳 CYPRESS-DOME-WATCH</h1>
+  <p>Across Big Cypress National Preserve, bald cypress grow in round domes: short trees at the dry edges, the tallest at the deep, wet center. Seen from above, a dome's height profile is a readout of the water beneath it. CYPRESS-DOME-WATCH finds these domes automatically in LiDAR canopy height, tracks how long each one holds water through the seasons, and asks whether domes acted as refuges during the February 2026 Big Cypress fire.</p>
+  <div class="box"><h2>Data</h2><ul><li>USGS 3DEP LiDAR canopy height</li><li>Sentinel-2 NDWI</li><li>NASA UAVSAR (stretch)</li><li>Feb 2026 Big Cypress fire perimeter</li></ul></div>
+  <div class="box"><h2>Roadmap</h2><ul><li>Find and download 3DEP LiDAR tiles for a test area</li><li>Build a canopy height model</li><li>Detect domes (done on synthetic data)</li><li>NDWI water permanence per dome</li><li>Pre/post-fire comparison</li></ul></div>
+  <footer>Brooks Groves · <a href="https://brooksgroves.com">brooksgroves.com</a> · <a href="https://github.com/bdgroves/cypress-dome-watch">GitHub</a></footer>
+</main>
+</body>
+</html>
