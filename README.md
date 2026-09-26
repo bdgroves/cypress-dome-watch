@@ -12,7 +12,7 @@ Across Big Cypress National Preserve, bald cypress grow in round domes: short tr
 
 | Piece | State |
 |---|---|
-| 3DEP LiDAR tile finder (`src/find_lidar.py`) | ✅ written |
+| 3DEP LiDAR tile finder (`src/find_lidar.py`) + "Find LiDAR tiles" Action | ✅ written: run it from the Actions tab |
 | Dome detector (`src/detect_domes.py`): smoothed local maxima + circularity | ✅ finds 7 of 9 planted domes in a synthetic test canopy (overlapping domes merge; tune next) |
 | Landing page (`docs/index.html`) | ✅ placeholder |
 | Real canopy height model from LiDAR | ⬜ next |
