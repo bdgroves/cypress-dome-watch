@@ -1,0 +1,2252 @@
+[
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312684_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312684_E.laz",
+    "size": 221880386,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312685_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312685_E.laz",
+    "size": 302443843,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312686_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312686_E.laz",
+    "size": 467687895,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312687_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312687_E.laz",
+    "size": 391439639,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312688_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312688_E.laz",
+    "size": 413221027,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312689_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312689_E.laz",
+    "size": 320877782,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312690_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312690_E.laz",
+    "size": 275223628,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312691_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312691_E.laz",
+    "size": 297086150,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312692_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312692_E.laz",
+    "size": 273478333,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312693_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312693_E.laz",
+    "size": 323233004,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312694_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312694_E.laz",
+    "size": 350508883,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312695_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312695_E.laz",
+    "size": 325551551,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312696_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312696_E.laz",
+    "size": 382243688,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312697_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312697_E.laz",
+    "size": 310547263,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312698_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312698_E.laz",
+    "size": 378455668,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312984_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312984_E.laz",
+    "size": 234320614,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312985_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312985_E.laz",
+    "size": 314070969,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312986_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312986_E.laz",
+    "size": 431347262,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312987_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312987_E.laz",
+    "size": 370430919,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312988_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312988_E.laz",
+    "size": 565010821,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312989_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312989_E.laz",
+    "size": 314299256,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312990_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312990_E.laz",
+    "size": 270272299,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312991_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312991_E.laz",
+    "size": 290088766,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312992_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312992_E.laz",
+    "size": 249836384,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312993_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312993_E.laz",
+    "size": 314688347,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312994_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312994_E.laz",
+    "size": 317308596,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312995_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312995_E.laz",
+    "size": 291315610,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312996_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312996_E.laz",
+    "size": 385920686,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312997_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312997_E.laz",
+    "size": 304475501,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_312998_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_312998_E.laz",
+    "size": 353184492,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313284_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313284_E.laz",
+    "size": 295316295,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313285_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313285_E.laz",
+    "size": 421373504,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313286_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313286_E.laz",
+    "size": 460861300,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313287_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313287_E.laz",
+    "size": 343159705,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313288_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313288_E.laz",
+    "size": 525748811,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313289_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313289_E.laz",
+    "size": 295226460,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313290_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313290_E.laz",
+    "size": 254198687,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313291_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313291_E.laz",
+    "size": 288796054,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313292_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313292_E.laz",
+    "size": 251490276,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313293_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313293_E.laz",
+    "size": 290003061,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313294_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313294_E.laz",
+    "size": 319998907,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313295_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313295_E.laz",
+    "size": 302098484,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313296_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313296_E.laz",
+    "size": 349993298,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313297_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313297_E.laz",
+    "size": 287033806,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313298_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313298_E.laz",
+    "size": 380468490,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313584_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313584_E.laz",
+    "size": 349794432,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313585_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313585_E.laz",
+    "size": 352215681,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313586_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313586_E.laz",
+    "size": 452493074,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313587_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313587_E.laz",
+    "size": 343365322,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313588_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313588_E.laz",
+    "size": 432912749,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313589_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313589_E.laz",
+    "size": 314438052,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313590_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313590_E.laz",
+    "size": 252579692,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313591_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313591_E.laz",
+    "size": 259182805,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313592_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313592_E.laz",
+    "size": 214130184,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313593_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313593_E.laz",
+    "size": 233372537,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313594_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313594_E.laz",
+    "size": 264362526,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313595_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313595_E.laz",
+    "size": 297740816,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313596_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313596_E.laz",
+    "size": 328635294,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313597_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313597_E.laz",
+    "size": 267778222,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313598_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313598_E.laz",
+    "size": 321447577,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313884_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313884_E.laz",
+    "size": 363502111,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313885_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313885_E.laz",
+    "size": 366114039,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313886_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313886_E.laz",
+    "size": 463060831,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313887_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313887_E.laz",
+    "size": 371496356,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313888_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313888_E.laz",
+    "size": 401974405,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313889_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313889_E.laz",
+    "size": 309718735,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313890_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313890_E.laz",
+    "size": 315576807,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313891_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313891_E.laz",
+    "size": 271953979,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313892_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313892_E.laz",
+    "size": 209042018,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313893_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313893_E.laz",
+    "size": 232667234,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313894_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313894_E.laz",
+    "size": 234392610,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313895_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313895_E.laz",
+    "size": 236375383,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313896_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313896_E.laz",
+    "size": 337458235,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313897_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313897_E.laz",
+    "size": 242056045,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_313898_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_313898_E.laz",
+    "size": 295631295,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314184_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314184_E.laz",
+    "size": 360244745,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314185_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314185_E.laz",
+    "size": 284946602,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314186_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314186_E.laz",
+    "size": 412809658,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314187_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314187_E.laz",
+    "size": 228732059,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314188_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314188_E.laz",
+    "size": 332280697,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314189_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314189_E.laz",
+    "size": 282361840,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314190_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314190_E.laz",
+    "size": 344424083,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314191_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314191_E.laz",
+    "size": 264152182,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314192_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314192_E.laz",
+    "size": 202202071,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314193_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314193_E.laz",
+    "size": 241979402,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314194_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314194_E.laz",
+    "size": 252084034,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314195_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314195_E.laz",
+    "size": 247246042,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314196_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314196_E.laz",
+    "size": 324488394,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314197_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314197_E.laz",
+    "size": 290924676,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314198_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314198_E.laz",
+    "size": 334775899,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314484_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314484_E.laz",
+    "size": 309973021,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314485_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314485_E.laz",
+    "size": 217774884,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314486_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314486_E.laz",
+    "size": 362649329,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314487_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314487_E.laz",
+    "size": 199353457,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314488_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314488_E.laz",
+    "size": 329202540,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314489_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314489_E.laz",
+    "size": 307157872,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314490_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314490_E.laz",
+    "size": 342463912,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314491_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314491_E.laz",
+    "size": 282830733,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314492_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314492_E.laz",
+    "size": 226805791,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314493_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314493_E.laz",
+    "size": 272268171,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314494_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314494_E.laz",
+    "size": 254223502,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314495_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314495_E.laz",
+    "size": 260944415,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314496_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314496_E.laz",
+    "size": 398963304,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314497_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314497_E.laz",
+    "size": 287851498,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314498_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314498_E.laz",
+    "size": 361129068,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314784_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314784_E.laz",
+    "size": 287159745,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314785_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314785_E.laz",
+    "size": 230966496,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314786_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314786_E.laz",
+    "size": 303599021,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314787_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314787_E.laz",
+    "size": 271081783,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314788_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314788_E.laz",
+    "size": 389287336,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314789_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314789_E.laz",
+    "size": 323504808,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314790_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314790_E.laz",
+    "size": 285695193,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314791_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314791_E.laz",
+    "size": 253730901,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314792_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314792_E.laz",
+    "size": 228155321,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314793_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314793_E.laz",
+    "size": 258769832,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314794_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314794_E.laz",
+    "size": 278677629,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314795_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314795_E.laz",
+    "size": 271955388,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314796_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314796_E.laz",
+    "size": 309603543,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314797_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314797_E.laz",
+    "size": 258659413,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_314798_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_314798_E.laz",
+    "size": 354299739,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315084_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315084_E.laz",
+    "size": 222438365,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315085_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315085_E.laz",
+    "size": 199408477,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315086_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315086_E.laz",
+    "size": 283771742,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315087_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315087_E.laz",
+    "size": 271264850,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315088_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315088_E.laz",
+    "size": 454440822,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315089_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315089_E.laz",
+    "size": 282688126,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315090_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315090_E.laz",
+    "size": 272988875,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315384_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315384_E.laz",
+    "size": 308661247,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315385_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315385_E.laz",
+    "size": 245387146,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315386_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315386_E.laz",
+    "size": 336139326,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315387_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315387_E.laz",
+    "size": 271948439,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315388_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315388_E.laz",
+    "size": 559458162,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315389_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315389_E.laz",
+    "size": 410062604,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315390_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315390_E.laz",
+    "size": 327496780,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315684_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315684_E.laz",
+    "size": 338519580,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315685_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315685_E.laz",
+    "size": 326520074,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315686_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315686_E.laz",
+    "size": 352837333,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315687_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315687_E.laz",
+    "size": 334000682,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315688_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315688_E.laz",
+    "size": 520482221,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315689_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315689_E.laz",
+    "size": 302166815,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315690_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315690_E.laz",
+    "size": 302732389,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315984_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315984_E.laz",
+    "size": 427199827,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315985_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315985_E.laz",
+    "size": 392703728,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315986_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315986_E.laz",
+    "size": 387047656,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315987_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315987_E.laz",
+    "size": 377813433,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315988_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315988_E.laz",
+    "size": 505271708,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315989_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315989_E.laz",
+    "size": 385586833,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_315990_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_315990_E.laz",
+    "size": 305134424,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316284_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316284_E.laz",
+    "size": 294274159,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316285_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316285_E.laz",
+    "size": 309899525,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316286_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316286_E.laz",
+    "size": 385850413,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316287_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316287_E.laz",
+    "size": 297198862,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316288_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316288_E.laz",
+    "size": 549649900,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316289_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316289_E.laz",
+    "size": 404586826,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316290_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316290_E.laz",
+    "size": 285095355,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316584_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316584_E.laz",
+    "size": 209186620,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316585_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316585_E.laz",
+    "size": 213409485,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316586_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316586_E.laz",
+    "size": 314845130,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316587_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316587_E.laz",
+    "size": 244296375,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316588_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316588_E.laz",
+    "size": 444670096,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316589_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316589_E.laz",
+    "size": 286245510,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Peninsular_FDEM_2018_D19_DRRA LID2019_316590_E",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_FDEM_2018_D19_DRRA/FL_Peninsular_FDEM_Collier_2018/LAZ/USGS_LPC_FL_Peninsular_FDEM_2018_D19_DRRA_LID2019_316590_E.laz",
+    "size": 213414736,
+    "date": "2021-02-22"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1498n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1498n0432.laz",
+    "size": 729168,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1498n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1498n0433.laz",
+    "size": 12692696,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1498n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1498n0434.laz",
+    "size": 12081280,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1498n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1498n0435.laz",
+    "size": 10512739,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1498n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1498n0436.laz",
+    "size": 15386520,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1498n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1498n0437.laz",
+    "size": 18140065,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1498n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1498n0438.laz",
+    "size": 5106815,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1498n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1498n0439.laz",
+    "size": 6246900,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1498n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1498n0440.laz",
+    "size": 480608,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1499n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1499n0430.laz",
+    "size": 158944,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1499n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1499n0431.laz",
+    "size": 5544118,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1499n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1499n0432.laz",
+    "size": 18364194,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1499n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1499n0433.laz",
+    "size": 128266980,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1499n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1499n0434.laz",
+    "size": 133594633,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1499n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1499n0435.laz",
+    "size": 117422209,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1499n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1499n0436.laz",
+    "size": 135688083,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1499n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1499n0437.laz",
+    "size": 136195614,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1499n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1499n0438.laz",
+    "size": 72899276,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1499n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1499n0439.laz",
+    "size": 67721555,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1499n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1499n0440.laz",
+    "size": 8782514,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0429.laz",
+    "size": 426376,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0430.laz",
+    "size": 11251606,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0431.laz",
+    "size": 78687657,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0432.laz",
+    "size": 117291066,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0433.laz",
+    "size": 132869035,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0434.laz",
+    "size": 138819039,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0435.laz",
+    "size": 129145117,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0436.laz",
+    "size": 135600785,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0437.laz",
+    "size": 140998872,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0438.laz",
+    "size": 113644418,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0439.laz",
+    "size": 82107015,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1500n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1500n0440.laz",
+    "size": 10632530,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0429.laz",
+    "size": 23735248,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0430.laz",
+    "size": 106460696,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0431.laz",
+    "size": 93889611,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0432.laz",
+    "size": 100381957,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0433.laz",
+    "size": 152127157,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0434.laz",
+    "size": 126394444,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0435.laz",
+    "size": 111572299,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0436.laz",
+    "size": 129069351,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0437.laz",
+    "size": 130742604,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0438.laz",
+    "size": 162980750,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0439.laz",
+    "size": 113992759,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1501n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1501n0440.laz",
+    "size": 7920295,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0429.laz",
+    "size": 76642291,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0430.laz",
+    "size": 74571968,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0431.laz",
+    "size": 104607300,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0432.laz",
+    "size": 145269129,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0433.laz",
+    "size": 127310198,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0434.laz",
+    "size": 153936866,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0435.laz",
+    "size": 114229219,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0436.laz",
+    "size": 119179524,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0437.laz",
+    "size": 110614020,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0438.laz",
+    "size": 137546855,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0439.laz",
+    "size": 99093175,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0440.laz",
+    "size": 12748258,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1502n0441",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1502n0441.laz",
+    "size": 527860,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0429.laz",
+    "size": 75807095,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0430.laz",
+    "size": 83722232,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0431.laz",
+    "size": 60447875,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0432.laz",
+    "size": 84353875,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0433.laz",
+    "size": 169759959,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0434.laz",
+    "size": 161317778,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0435.laz",
+    "size": 117120484,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0436.laz",
+    "size": 114436948,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0437.laz",
+    "size": 108411341,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0438.laz",
+    "size": 107856454,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0439.laz",
+    "size": 104161091,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0440.laz",
+    "size": 106161280,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1503n0441",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1503n0441.laz",
+    "size": 6300605,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0429.laz",
+    "size": 128026322,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0430.laz",
+    "size": 104258944,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0431.laz",
+    "size": 80557987,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0432.laz",
+    "size": 101815599,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0433.laz",
+    "size": 90271788,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0434.laz",
+    "size": 144310264,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0435.laz",
+    "size": 131647545,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0436.laz",
+    "size": 143566358,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0437.laz",
+    "size": 134340209,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0438.laz",
+    "size": 125970744,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0439.laz",
+    "size": 105128750,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0440.laz",
+    "size": 108400529,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1504n0441",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1504n0441.laz",
+    "size": 6344218,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0429.laz",
+    "size": 139066687,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0430.laz",
+    "size": 195706123,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0431.laz",
+    "size": 143579721,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0432.laz",
+    "size": 123304194,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0433.laz",
+    "size": 121024328,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0434.laz",
+    "size": 144606478,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0435.laz",
+    "size": 121532233,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0436.laz",
+    "size": 112686822,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0437.laz",
+    "size": 97932475,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0438.laz",
+    "size": 109319992,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0439.laz",
+    "size": 109121364,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0440.laz",
+    "size": 105518745,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1505n0441",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1505n0441.laz",
+    "size": 11613012,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0429.laz",
+    "size": 172186084,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0430.laz",
+    "size": 94838172,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0431.laz",
+    "size": 93987019,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0432.laz",
+    "size": 172145483,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0433.laz",
+    "size": 152255489,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0434.laz",
+    "size": 144812764,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0435.laz",
+    "size": 132719830,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0436.laz",
+    "size": 117212494,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0437.laz",
+    "size": 100594153,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0438.laz",
+    "size": 102777731,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0439.laz",
+    "size": 93564721,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0440.laz",
+    "size": 107741473,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1506n0441",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1506n0441.laz",
+    "size": 15448209,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0430.laz",
+    "size": 104968439,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0431.laz",
+    "size": 96182880,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0432.laz",
+    "size": 95509444,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0433.laz",
+    "size": 112970177,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0434.laz",
+    "size": 87087717,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0435.laz",
+    "size": 124651042,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0436.laz",
+    "size": 161305783,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0437.laz",
+    "size": 138361387,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0438.laz",
+    "size": 140205207,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0439.laz",
+    "size": 114536361,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0440.laz",
+    "size": 89955249,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1507n0441",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1507n0441.laz",
+    "size": 6713940,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0430.laz",
+    "size": 132261757,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0431.laz",
+    "size": 96828615,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0432.laz",
+    "size": 120847901,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0433.laz",
+    "size": 154616823,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0434.laz",
+    "size": 155490052,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0435.laz",
+    "size": 124679933,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0436.laz",
+    "size": 110702061,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0437.laz",
+    "size": 116885223,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0438.laz",
+    "size": 107081545,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0439.laz",
+    "size": 125054096,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0440.laz",
+    "size": 84849460,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0441",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0441.laz",
+    "size": 6458620,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0448",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0448.laz",
+    "size": 671002,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1508n0449",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1508n0449.laz",
+    "size": 12887160,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0430.laz",
+    "size": 206546444,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0431.laz",
+    "size": 172097632,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0432.laz",
+    "size": 102952532,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0433.laz",
+    "size": 104541132,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0434.laz",
+    "size": 103721520,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0435.laz",
+    "size": 121546487,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0436.laz",
+    "size": 104043704,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0437.laz",
+    "size": 119830514,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0438.laz",
+    "size": 123601167,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0439.laz",
+    "size": 123941650,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0440.laz",
+    "size": 101542283,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0441",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0441.laz",
+    "size": 21620364,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0442",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0442.laz",
+    "size": 16429226,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1509n0448",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1509n0448.laz",
+    "size": 26934287,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0430.laz",
+    "size": 160118476,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0431.laz",
+    "size": 151672107,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0432.laz",
+    "size": 103876189,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0433.laz",
+    "size": 80688706,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0434.laz",
+    "size": 80206303,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0435.laz",
+    "size": 91992134,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0436",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0436.laz",
+    "size": 118638718,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0437",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0437.laz",
+    "size": 135311175,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0438",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0438.laz",
+    "size": 126126023,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0439",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0439.laz",
+    "size": 121324312,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0440",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0440.laz",
+    "size": 127054538,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0441",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0441.laz",
+    "size": 128973704,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1510n0442",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1510n0442.laz",
+    "size": 132242506,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1511n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1511n0430.laz",
+    "size": 158923166,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1511n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1511n0431.laz",
+    "size": 179130978,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1511n0432",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1511n0432.laz",
+    "size": 107356074,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1511n0433",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1511n0433.laz",
+    "size": 102619200,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1511n0434",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1511n0434.laz",
+    "size": 103049417,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_Southeast_2018_D18_SUPPLEMENTAL e1511n0435",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Southeast_2018_D18_SUPPLEMENTAL/FL_Southeast_B2_2018/LAZ/USGS_LPC_FL_Southeast_2018_D18_SUPPLEMENTAL_e1511n0435.laz",
+    "size": 94490584,
+    "date": "2019-10-15"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1491n0427",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1491n0427.laz",
+    "size": 334656736,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1491n0428",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1491n0428.laz",
+    "size": 292493917,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1491n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1491n0429.laz",
+    "size": 298701804,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1491n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1491n0430.laz",
+    "size": 14448290,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1492n0427",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1492n0427.laz",
+    "size": 458050109,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1492n0428",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1492n0428.laz",
+    "size": 447213860,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1492n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1492n0429.laz",
+    "size": 387901066,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1492n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1492n0430.laz",
+    "size": 24529016,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1493n0427",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1493n0427.laz",
+    "size": 566331698,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1493n0428",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1493n0428.laz",
+    "size": 503025676,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1493n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1493n0429.laz",
+    "size": 554924608,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1493n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1493n0430.laz",
+    "size": 37562033,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1494n0427",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1494n0427.laz",
+    "size": 484925413,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1494n0428",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1494n0428.laz",
+    "size": 515064444,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1494n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1494n0429.laz",
+    "size": 372129960,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1494n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1494n0430.laz",
+    "size": 29943638,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1495n0428",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1495n0428.laz",
+    "size": 508739852,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1495n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1495n0429.laz",
+    "size": 458514923,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1495n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1495n0430.laz",
+    "size": 48251153,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1495n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1495n0431.laz",
+    "size": 1612997,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1496n0428",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1496n0428.laz",
+    "size": 737358445,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1496n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1496n0429.laz",
+    "size": 710485409,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1496n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1496n0430.laz",
+    "size": 301883445,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1496n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1496n0431.laz",
+    "size": 23696040,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1497n0428",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1497n0428.laz",
+    "size": 385713185,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1497n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1497n0429.laz",
+    "size": 483617579,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1497n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1497n0430.laz",
+    "size": 278703012,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1497n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1497n0431.laz",
+    "size": 26731837,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1498n0428",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1498n0428.laz",
+    "size": 378293896,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1498n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1498n0429.laz",
+    "size": 299471615,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1498n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1498n0430.laz",
+    "size": 276475953,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1498n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1498n0431.laz",
+    "size": 35562564,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1499n0428",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1499n0428.laz",
+    "size": 431990345,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1499n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1499n0429.laz",
+    "size": 323782073,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1499n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1499n0430.laz",
+    "size": 221109328,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1499n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1499n0431.laz",
+    "size": 27720426,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1500n0428",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1500n0428.laz",
+    "size": 547433031,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1500n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1500n0429.laz",
+    "size": 428306280,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1500n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1500n0430.laz",
+    "size": 244647835,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1500n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1500n0431.laz",
+    "size": 22934473,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1501n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1501n0429.laz",
+    "size": 651913702,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1501n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1501n0430.laz",
+    "size": 55711524,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1501n0431",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1501n0431.laz",
+    "size": 1755064,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1502n0429",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1502n0429.laz",
+    "size": 31388761,
+    "date": "2021-10-01"
+  },
+  {
+    "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1502n0430",
+    "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1502n0430.laz",
+    "size": 987311,
+    "date": "2021-10-01"
+  }
+]
