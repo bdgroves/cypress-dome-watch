@@ -15,7 +15,19 @@ Across Big Cypress National Preserve, bald cypress grow in round domes: short tr
 | 3DEP LiDAR tile finder (`src/find_lidar.py`) + "Find LiDAR tiles" Action | ✅ written: run it from the Actions tab |
 | Dome detector (`src/detect_domes.py`): smoothed local maxima + circularity | ✅ finds 7 of 9 planted domes in a synthetic test canopy (overlapping domes merge; tune next) |
 | Landing page (`docs/index.html`) | ✅ placeholder |
-| Real canopy height model from LiDAR | ⬜ next |
+| Real canopy height model from LiDAR | ⬜ next: pick 2–3 tiles |
+
+### First look at the LiDAR (Sep 2026)
+
+The test area is covered by **375 point-cloud tiles, about 82 GB**, from three 2018 USGS 3DEP collections:
+
+| Collection | Tiles |
+|---|---|
+| FL_Southeast_2018_D18_SUPPLEMENTAL | 168 |
+| FL_Peninsular_FDEM_2018_D19_DRRA (Collier County) | 162 |
+| FL_WestEvergladesNP_2018_B18 | 45 |
+
+Tiles run ~220 MB each, so the plan is to start with a handful over domes visible in aerial imagery rather than downloading everything. Full list: `data/lidar_tiles.json`.
 | Sentinel-2 NDWI per dome · fire-refugia comparison | ⬜ later |
 
 ## Data sources
