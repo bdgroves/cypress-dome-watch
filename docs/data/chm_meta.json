@@ -18,6 +18,11 @@
       "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1495n0431",
       "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1495n0431.laz",
       "date": "2021-10-01"
+    },
+    {
+      "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1496n0431",
+      "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1496n0431.laz",
+      "date": "2021-10-01"
     }
   ],
   "survey": "FL_WestEvergladesNP_2018_B18",
@@ -33,9 +38,27 @@
     ]
   ],
   "stats_m": {
-    "p50": 0.4,
-    "p95": 12.8,
+    "p50": 0.5,
+    "p95": 13.0,
     "max": 29.7
   },
-  "n_domes": 27
+  "n_domes": 12,
+  "tile_diagnostics": {
+    "USGS_LPC_FL_WestEvergladesNP_2018_B18_e1496n0430.laz": {
+      "dtm_coverage": 1.0,
+      "chm_coverage": 1.0
+    },
+    "USGS_LPC_FL_WestEvergladesNP_2018_B18_e1495n0430.laz": {
+      "dtm_coverage": 0.203,
+      "chm_coverage": 0.192
+    },
+    "USGS_LPC_FL_WestEvergladesNP_2018_B18_e1495n0431.laz": {
+      "dtm_coverage": 0.885,
+      "chm_coverage": 0.804
+    },
+    "USGS_LPC_FL_WestEvergladesNP_2018_B18_e1496n0431.laz": {
+      "dtm_coverage": 1.0,
+      "chm_coverage": 1.0
+    }
+  }
 }
