@@ -20,11 +20,15 @@ Across Big Cypress National Preserve, bald cypress grow in round domes: short tr
 | Canopy height model pipeline (`src/build_chm.py`): picks tiles near a target, streams them through PDAL (ground → DTM, everything else → height above ground), mosaics, detects domes | ✅ built — run **Build canopy model** from Actions |
 | Map page: canopy height over satellite imagery, dome circles, Kirby Storter Boardwalk ground-truth pin | ✅ |
 
+### Second run (Sep 27, 2026): 4 tiles, isolation test on
+
+12 candidates, down from 27. Every strand chunk is gone; what's left are small, round, isolated tree islands (59–80 m across, 10–14 m tall) scattered through the prairie, which is what cypress domes look like. Nearest to the boardwalk: 78 m across, 13.9 m tall, 100 m from the trailhead.
+
 ### First real run (Sep 27, 2026)
 
 Three tiles of the 2018 West Everglades topobathymetric survey around the Kirby Storter Boardwalk: median canopy 0.4 m (open prairie), 95th percentile 12.8 m, tallest 29.7 m, 27 candidates. Two lessons:
 
-- **Flooded ground isn't "ground."** In a topobathymetric survey, the floor under standing water is class 40 (bathymetric bottom), so one tile came out almost blank. The DTM now uses classes 2 and 40, and water returns (9, 41, 45) are dropped.
+- **One tile is mostly empty.** Tile e1495n0430 has points in only ~20% of its cells, even after counting bathymetric bottom (class 40) as ground. It's a gap in the survey itself (likely the project edge), not a processing bug. The per-tile coverage check in `chm_meta.json` now reports this.
 - **Strands aren't domes.** A cypress strand chopped up by the watershed looks like a chain of round domes. Candidates now have to pass an isolation test: at most 25% forest on a ring 1.3–2 radii out. Trade-off: a real dome touching a strand can get dropped too.
 
 ### First look at the LiDAR (Sep 2026)
