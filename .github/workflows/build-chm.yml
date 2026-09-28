@@ -1,0 +1,38 @@
+name: Build canopy model
+
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "lat,lon to center on (default: Kirby Storter Boardwalk)"
+        default: "25.8679,-81.1540"
+      tiles:
+        description: "How many LiDAR tiles (each ~200 MB)"
+        default: "3"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      TARGET: ${{ inputs.target }}
+      TILES: ${{ inputs.tiles }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: prefix-dev/setup-pixi@v0.8.1
+        with:
+          cache: false
+      - run: pixi run pdal --version
+      - run: pixi run build
+      - name: Commit results
+        run: |
+          git config user.name "cypress-dome-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data/domes.geojson docs/data/chm.png docs/data/chm_meta.json
+          git diff --cached --quiet && exit 0
+          git commit -m "data: canopy model + dome candidates around ${TARGET}"
+          git pull --rebase
+          git push

@@ -6,3 +6,4 @@ data/raw/
 *.tif
 *.laz
 *.las
+data/work/

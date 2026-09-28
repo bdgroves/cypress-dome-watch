@@ -4,29 +4,135 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CYPRESS-DOME-WATCH</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <style>
-  :root { --navy:#0b1622; --panel:#111f2e; --line:#1e3246; --teal:#2dd4bf; --text:#d7e3ee; --muted:#7f95aa; }
-  * { box-sizing:border-box; }
-  body { margin:0; background:var(--navy); color:var(--text); font:17px/1.6 -apple-system,"Segoe UI",Inter,sans-serif; padding-inline:20px; }
-  main { max-width:760px; margin:0 auto; padding-block:64px; }
-  .k { font:600 12px/1 ui-monospace,Menlo,monospace; letter-spacing:.16em; text-transform:uppercase; color:var(--teal); }
-  h1 { font-size:clamp(36px,6vw,56px); line-height:1.05; margin:14px 0 18px; letter-spacing:.02em; }
-  p { margin:0 0 1em; }
-  .box { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:20px 22px; margin-top:28px; }
-  .box h2 { font-size:13px; letter-spacing:.14em; text-transform:uppercase; color:var(--muted); margin:0 0 10px; }
-  ul { margin:0; padding-left:1.2em; } li { margin:.3em 0; }
-  a { color:var(--teal); }
-  footer { margin-top:40px; color:var(--muted); font-size:13px; }
+  :root {
+    color-scheme: dark;
+    --navy: #0b1622; --panel: #111f2e; --line: #1e3246;
+    --text: #d7e3ee; --muted: #8aa0b4; --teal: #2dd4bf;
+    --mono: ui-monospace, "SF Mono", Menlo, monospace;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--navy); color: var(--text); font: 17px/1.6 -apple-system, "Segoe UI", Inter, sans-serif; padding-inline: 20px; }
+  main { max-width: 1040px; margin: 0 auto; padding-block: 56px 72px; }
+  .k { font: 600 12px/1 var(--mono); letter-spacing: .16em; text-transform: uppercase; color: var(--teal); }
+  h1 { font-size: clamp(36px, 6vw, 58px); line-height: 1.04; margin: 14px 0 18px; letter-spacing: .01em; text-wrap: balance; }
+  h2 { font-size: clamp(21px, 3vw, 27px); margin: 0 0 8px; text-wrap: balance; }
+  p { margin: 0 0 1em; max-width: 44em; }
+  .lede { font-size: 19px; }
+  .muted { color: var(--muted); }
+  section { margin-top: 48px; }
+  .mapwrap { position: relative; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; margin-top: 16px; }
+  #map { height: min(74vh, 640px); background: var(--navy); }
+  .bar { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; margin-top: 14px; font: 12px var(--mono); color: var(--muted); }
+  .bar label { display: inline-flex; gap: 8px; align-items: center; }
+  input[type=range] { accent-color: var(--teal); }
+  input:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
+  .legend { position: absolute; right: 12px; bottom: 26px; z-index: 500; background: rgba(11,22,34,.9); border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; font: 11px var(--mono); color: var(--text); }
+  .ramp { width: 160px; height: 10px; border-radius: 2px; margin: 6px 0 3px; background: linear-gradient(90deg,#440154,#3b528b,#21918c,#5ec962,#fde725); }
+  .ends { display: flex; justify-content: space-between; color: var(--muted); }
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; margin-top: 16px; }
+  .stat { background: var(--panel); padding: 14px 16px; }
+  .stat b { display: block; font: 600 26px/1.1 var(--mono); color: var(--text); font-variant-numeric: tabular-nums; }
+  .stat span { font: 11px var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+  .note { border-left: 2px solid var(--teal); padding-left: 14px; color: var(--muted); font-size: 15px; }
+  #empty { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 18px 20px; margin-top: 20px; }
+  .leaflet-container { font: 12px var(--mono); }
+  .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--panel); color: var(--text); }
+  .leaflet-control-layers { background: var(--panel); color: var(--text); }
+  footer { margin-top: 56px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 13px; }
+  a { color: var(--teal); }
+  @media (max-width: 700px) { .stats { grid-template-columns: repeat(2, 1fr); } }
 </style>
 </head>
 <body>
 <main>
-  <div class="k">GeoAI & Remote Sensing Lab · under construction</div>
-  <h1>🌳 CYPRESS-DOME-WATCH</h1>
-  <p>Across Big Cypress National Preserve, bald cypress grow in round domes: short trees at the dry edges, the tallest at the deep, wet center. Seen from above, a dome's height profile is a readout of the water beneath it. CYPRESS-DOME-WATCH finds these domes automatically in LiDAR canopy height, tracks how long each one holds water through the seasons, and asks whether domes acted as refuges during the February 2026 Big Cypress fire.</p>
-  <div class="box"><h2>Data</h2><ul><li>USGS 3DEP LiDAR canopy height</li><li>Sentinel-2 NDWI</li><li>NASA UAVSAR (stretch)</li><li>Feb 2026 Big Cypress fire perimeter</li></ul></div>
-  <div class="box"><h2>Roadmap</h2><ul><li>Find and download 3DEP LiDAR tiles for a test area</li><li>Build a canopy height model</li><li>Detect domes (done on synthetic data)</li><li>NDWI water permanence per dome</li><li>Pre/post-fire comparison</li></ul></div>
-  <footer>Brooks Groves · <a href="https://brooksgroves.com">brooksgroves.com</a> · <a href="https://github.com/bdgroves/cypress-dome-watch">GitHub</a></footer>
+  <div class="k">CYPRESS-DOME-WATCH · GeoAI &amp; Remote Sensing Lab</div>
+  <h1>Reading water from the shape of a forest</h1>
+  <p class="lede">Across Big Cypress National Preserve, bald cypress grow in round domes: short trees at the dry edge, the tallest at the deep, wet center. From above, a dome's height profile is a map of the water beneath it. This project finds the domes automatically in airborne LiDAR.</p>
+
+  <div id="empty" hidden>
+    <h2>No canopy model yet</h2>
+    <p class="muted">Run the <b>Build canopy model</b> workflow from the repo's Actions tab. It downloads a few USGS LiDAR tiles around the Kirby Storter Boardwalk, builds a 1 m canopy height model, and finds dome candidates.</p>
+  </div>
+
+  <section id="results" hidden>
+    <h2>Canopy height and dome candidates</h2>
+    <p class="muted">Colors show canopy height from USGS 3DEP LiDAR. Circles are candidate domes: round patches where the canopy rises toward the center. The orange pin is the Kirby Storter Boardwalk, which ends in a cypress dome and slough, so you can check the detector against a place people actually walk.</p>
+    <div class="stats" id="stats"></div>
+    <div class="bar">
+      <label><input type="checkbox" id="show-chm" checked> Canopy height</label>
+      <label>Opacity <input type="range" id="op" min="0" max="100" value="75"></label>
+      <label><input type="checkbox" id="show-domes" checked> Dome candidates</label>
+    </div>
+    <div class="mapwrap">
+      <div id="map"></div>
+      <div class="legend"><div>Canopy height</div><div class="ramp"></div><div class="ends"><span>0 m</span><span>25 m+</span></div></div>
+    </div>
+    <p class="note" id="meta" style="margin-top:12px"></p>
+  </section>
+
+  <section>
+    <h2>How it works</h2>
+    <p>USGS 3DEP LiDAR is a laser survey flown from aircraft: billions of points, each classified as ground, vegetation or something else. For each tile, the ground points become a bare-earth surface, and every other point gets a height above it. Keeping the tallest point in each square meter gives a canopy height model.</p>
+    <p>The detector smooths that model to dome scale, finds local high points, grows each into a region, and keeps the ones that are round and dome-sized. Next: Sentinel-2 water indices for each dome, and a before-and-after look at the February 2026 Big Cypress fire.</p>
+  </section>
+
+  <footer>
+    Brooks Groves · <a href="https://brooksgroves.com">brooksgroves.com</a> · <a href="https://github.com/bdgroves/cypress-dome-watch">GitHub</a><br>
+    LiDAR: USGS 3D Elevation Program · Imagery: Esri, Maxar, Earthstar Geographics
+  </footer>
 </main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+const BOARDWALK = [25.867931, -81.154018];
+const viridis = t => {
+  const s = [[68,1,84],[59,82,139],[33,145,140],[94,201,98],[253,231,37]];
+  t = Math.max(0, Math.min(1, t)) * (s.length - 1);
+  const i = Math.min(s.length - 2, Math.floor(t)), f = t - i;
+  return `rgb(${s[i].map((c, k) => Math.round(c + (s[i + 1][k] - c) * f)).join(",")})`;
+};
+
+Promise.all([
+  fetch("data/chm_meta.json").then(r => r.ok ? r.json() : null).catch(() => null),
+  fetch("data/domes.geojson").then(r => r.ok ? r.json() : null).catch(() => null),
+]).then(([meta, domes]) => {
+  if (!meta || !domes) { document.getElementById("empty").hidden = false; return; }
+  document.getElementById("results").hidden = false;
+
+  const ESRI = "https://server.arcgisonline.com/ArcGIS/rest/services/";
+  const map = L.map("map", { scrollWheelZoom: false });
+  map.fitBounds(meta.bounds);  // set the view before adding vector layers
+  const img = L.tileLayer(ESRI + "World_Imagery/MapServer/tile/{z}/{y}/{x}",
+    { maxNativeZoom: 18, maxZoom: 20, attribution: "Imagery &copy; Esri, Maxar, Earthstar Geographics" }).addTo(map);
+  const dark = L.tileLayer(ESRI + "Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+    { maxNativeZoom: 16, maxZoom: 20, attribution: "Tiles &copy; Esri" });
+  L.control.layers({ "Satellite": img, "Dark": dark }).addTo(map);
+  L.control.scale({ imperial: false }).addTo(map);
+
+  const chm = L.imageOverlay("data/chm.png", meta.bounds, { opacity: .75 }).addTo(map);
+  const domeLayer = L.layerGroup(domes.features.map(f => {
+    const p = f.properties, [lon, lat] = f.geometry.coordinates;
+    return L.circle([lat, lon], { radius: p.diameter_m / 2, color: "#fff", weight: 1.5, fill: false })
+      .bindPopup(`<b>Dome candidate #${p.id}</b><br>${p.diameter_m} m across<br>peak canopy ${p.peak_height_m} m<br>roundness ${p.circularity}`);
+  })).addTo(map);
+  L.circleMarker(BOARDWALK, { radius: 7, color: "#0b1622", weight: 2, fillColor: "#f59e0b", fillOpacity: 1 })
+    .bindPopup("<b>Kirby Storter Boardwalk</b><br>Wet prairie → cypress dome rim → slough").addTo(map);
+
+  document.getElementById("show-chm").onchange = e => e.target.checked ? chm.addTo(map) : chm.remove();
+  document.getElementById("show-domes").onchange = e => e.target.checked ? domeLayer.addTo(map) : domeLayer.remove();
+  document.getElementById("op").oninput = e => chm.setOpacity(e.target.value / 100);
+
+  const s = meta.stats_m;
+  document.getElementById("stats").innerHTML = [
+    [meta.n_domes, "dome candidates"], [s.p95 + " m", "95th pct canopy"],
+    [s.max + " m", "tallest canopy"], [meta.tiles.length, "LiDAR tiles"],
+  ].map(([v, l]) => `<div class="stat"><b>${v}</b><span>${l}</span></div>`).join("");
+  document.getElementById("meta").innerHTML =
+    `Survey <b>${meta.survey}</b> · ${meta.cell_m} m cells · centered on ${meta.target.join(", ")}. ` +
+    `These are candidates, not confirmed domes: check them against the imagery by toggling the canopy layer off.`;
+});
+</script>
 </body>
 </html>

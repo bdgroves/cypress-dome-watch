@@ -17,7 +17,8 @@ Across Big Cypress National Preserve, bald cypress grow in round domes: short tr
 | 3DEP LiDAR tile finder (`src/find_lidar.py`) + "Find LiDAR tiles" Action | ✅ written: run it from the Actions tab |
 | Dome detector (`src/detect_domes.py`): smoothed local maxima + circularity | ✅ finds 7 of 9 planted domes in a synthetic test canopy (overlapping domes merge; tune next) |
 | Landing page (`docs/index.html`) | ✅ placeholder |
-| Real canopy height model from LiDAR | ⬜ next: pick 2–3 tiles |
+| Canopy height model pipeline (`src/build_chm.py`): picks tiles near a target, streams them through PDAL (ground → DTM, everything else → height above ground), mosaics, detects domes | ✅ built — run **Build canopy model** from Actions |
+| Map page: canopy height over satellite imagery, dome circles, Kirby Storter Boardwalk ground-truth pin | ✅ |
 
 ### First look at the LiDAR (Sep 2026)
 
@@ -45,6 +46,7 @@ Tiles run ~220 MB each, so the plan is to start with a handful over domes visibl
 pixi install
 pixi run find-lidar   # lists 3DEP LiDAR tiles for Big Cypress → data/lidar_tiles.json
 pixi run demo         # runs the dome detector on a synthetic canopy
+TARGET=25.8679,-81.1540 TILES=3 pixi run build   # real LiDAR → docs/data/ (needs ~1 GB disk per tile)
 ```
 
 ## Build prompt (for the next session)
