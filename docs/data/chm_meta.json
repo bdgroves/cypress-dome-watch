@@ -1,0 +1,41 @@
+{
+  "target": [
+    25.8679,
+    -81.154
+  ],
+  "tiles": [
+    {
+      "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1496n0430",
+      "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1496n0430.laz",
+      "date": "2021-10-01"
+    },
+    {
+      "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1495n0430",
+      "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1495n0430.laz",
+      "date": "2021-10-01"
+    },
+    {
+      "title": "USGS Lidar Point Cloud FL_WestEvergladesNP_2018_B18 e1495n0431",
+      "url": "https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_WestEvergladesNP_2018_B18/FL_WestEvergladesNP_topobathymetric_2018/LAZ/USGS_LPC_FL_WestEvergladesNP_2018_B18_e1495n0431.laz",
+      "date": "2021-10-01"
+    }
+  ],
+  "survey": "FL_WestEvergladesNP_2018_B18",
+  "cell_m": 1.0,
+  "bounds": [
+    [
+      25.863602902069143,
+      -81.16479412649589
+    ],
+    [
+      25.876344207959374,
+      -81.14356501773682
+    ]
+  ],
+  "stats_m": {
+    "p50": 0.4,
+    "p95": 12.8,
+    "max": 29.7
+  },
+  "n_domes": 27
+}
