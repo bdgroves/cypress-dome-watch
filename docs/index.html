@@ -58,7 +58,7 @@
 
   <section id="results" hidden>
     <h2>Canopy height and dome candidates</h2>
-    <p class="muted">Colors show canopy height from USGS 3DEP LiDAR. Circles are candidate domes: round patches where the canopy rises toward the center. The orange pin is the Kirby Storter Boardwalk, which ends in a cypress dome and slough, so you can check the detector against a place people actually walk.</p>
+    <p class="muted">Colors show canopy height from USGS 3DEP LiDAR. Circles are candidate domes: round islands of trees, surrounded by open prairie, where the canopy rises toward the center. Long cypress strands are screened out. The orange pin is the Kirby Storter Boardwalk, which ends in a cypress dome and slough, so you can check the detector against a place people actually walk.</p>
     <div class="stats" id="stats"></div>
     <div class="bar">
       <label><input type="checkbox" id="show-chm" checked> Canopy height</label>
@@ -115,7 +115,7 @@ Promise.all([
   const domeLayer = L.layerGroup(domes.features.map(f => {
     const p = f.properties, [lon, lat] = f.geometry.coordinates;
     return L.circle([lat, lon], { radius: p.diameter_m / 2, color: "#fff", weight: 1.5, fill: false })
-      .bindPopup(`<b>Dome candidate #${p.id}</b><br>${p.diameter_m} m across<br>peak canopy ${p.peak_height_m} m<br>roundness ${p.circularity}`);
+      .bindPopup(`<b>Dome candidate #${p.id}</b><br>${p.diameter_m} m across<br>peak canopy ${p.peak_height_m} m<br>roundness ${p.circularity}${p.ring_forest != null ? `<br>forest on surrounding ring ${Math.round(p.ring_forest*100)}%` : ""}`);
   })).addTo(map);
   L.circleMarker(BOARDWALK, { radius: 7, color: "#0b1622", weight: 2, fillColor: "#f59e0b", fillOpacity: 1 })
     .bindPopup("<b>Kirby Storter Boardwalk</b><br>Wet prairie → cypress dome rim → slough").addTo(map);

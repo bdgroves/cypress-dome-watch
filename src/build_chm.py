@@ -44,9 +44,10 @@ WEB = ROOT / "docs" / "data"
 TNM = "https://tnmaccess.nationalmap.gov/api/v1/products"
 
 TARGET = tuple(float(v) for v in os.environ.get("TARGET", "25.8679,-81.1540").split(","))
-N_TILES = int(os.environ.get("TILES", "3"))
+N_TILES = int(os.environ.get("TILES", "4"))
 CELL_M = 1.0          # target cell size in meters
 NODATA = -9999.0
+DIAG: dict[str, dict] = {}   # per-tile coverage diagnostics, written to chm_meta.json
 
 
 def log(msg: str) -> None:
@@ -142,23 +143,34 @@ def build_tile(laz: Path) -> tuple[Path, float, float, str]:
     if not chm.exists():
         run_pipeline([
             str(laz),
-            {"type": "filters.expression", "expression": "Classification == 2"},
+            # ground, plus bathymetric bottom (class 40): in a topobathymetric survey the
+            # ground under standing water is class 40, not 2, and Big Cypress floods
+            {"type": "filters.expression", "expression": "Classification == 2 || Classification == 40"},
             {"type": "writers.gdal", "filename": str(dtm), "resolution": res, "bounds": bounds,
              "output_type": "min", "window_size": 6, "nodata": NODATA, "data_type": "float32"},
         ])
         with rasterio.open(dtm) as src:
             prof, arr = src.profile, src.read(1)
         mask = (arr != NODATA).astype("uint8")
-        arr = fillnodata(arr, mask=mask, max_search_distance=200)
+        DIAG[laz.name] = {"dtm_coverage": round(float(mask.mean()), 3)}
+        # the Big Cypress floor is nearly flat, so filling wide gaps from their edges is safe
+        arr = fillnodata(arr, mask=mask, max_search_distance=2000)
         with rasterio.open(dtm_filled, "w", **prof) as dst:
             dst.write(arr, 1)
         run_pipeline([
             str(laz),
-            {"type": "filters.expression", "expression": "Classification != 7 && Classification != 18"},
+            # drop noise (7, 18) and water returns (9 water, 41 water surface, 45 water column)
+            {"type": "filters.expression",
+             "expression": "Classification != 7 && Classification != 18 && Classification != 9 && "
+                           "Classification != 41 && Classification != 45"},
             {"type": "filters.hag_dem", "raster": str(dtm_filled)},
             {"type": "writers.gdal", "filename": str(chm), "resolution": res, "bounds": bounds,
              "dimension": "HeightAboveGround", "output_type": "max", "nodata": NODATA, "data_type": "float32"},
         ])
+    with rasterio.open(chm) as src:
+        a = src.read(1)
+    DIAG.setdefault(laz.name, {})["chm_coverage"] = round(float((a != NODATA).mean()), 3)
+    log(f"    coverage: DTM {DIAG[laz.name].get('dtm_coverage', '?')} · CHM {DIAG[laz.name]['chm_coverage']}")
     return chm, h, v, wkt
 
 
@@ -195,7 +207,7 @@ def main() -> None:
         x, y = transform * (d["col"] + 0.5, d["row"] + 0.5)
         lon, lat = to_ll.transform(x, y)
         feats.append({"type": "Feature", "geometry": {"type": "Point", "coordinates": [round(lon, 6), round(lat, 6)]},
-                      "properties": {"id": i, **{k: d[k] for k in ("diameter_m", "peak_height_m", "circularity")}}})
+                      "properties": {"id": i, **{k: d[k] for k in ("diameter_m", "peak_height_m", "circularity", "ring_forest")}}})
     log(f"detected {len(feats)} dome candidates")
 
     WEB.mkdir(parents=True, exist_ok=True)
@@ -206,7 +218,7 @@ def main() -> None:
         "survey": tiles[0]["project"], "cell_m": round(res_m, 2), "bounds": bounds,
         "stats_m": {"p50": round(float(np.percentile(chm, 50)), 1), "p95": round(float(np.percentile(chm, 95)), 1),
                     "max": round(float(chm.max()), 1)},
-        "n_domes": len(feats),
+        "n_domes": len(feats), "tile_diagnostics": DIAG,
     }, indent=2))
     log("✓ wrote docs/data/domes.geojson, chm.png, chm_meta.json")
 

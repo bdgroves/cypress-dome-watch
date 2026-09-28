@@ -20,6 +20,13 @@ Across Big Cypress National Preserve, bald cypress grow in round domes: short tr
 | Canopy height model pipeline (`src/build_chm.py`): picks tiles near a target, streams them through PDAL (ground → DTM, everything else → height above ground), mosaics, detects domes | ✅ built — run **Build canopy model** from Actions |
 | Map page: canopy height over satellite imagery, dome circles, Kirby Storter Boardwalk ground-truth pin | ✅ |
 
+### First real run (Sep 27, 2026)
+
+Three tiles of the 2018 West Everglades topobathymetric survey around the Kirby Storter Boardwalk: median canopy 0.4 m (open prairie), 95th percentile 12.8 m, tallest 29.7 m, 27 candidates. Two lessons:
+
+- **Flooded ground isn't "ground."** In a topobathymetric survey, the floor under standing water is class 40 (bathymetric bottom), so one tile came out almost blank. The DTM now uses classes 2 and 40, and water returns (9, 41, 45) are dropped.
+- **Strands aren't domes.** A cypress strand chopped up by the watershed looks like a chain of round domes. Candidates now have to pass an isolation test: at most 25% forest on a ring 1.3–2 radii out. Trade-off: a real dome touching a strand can get dropped too.
+
 ### First look at the LiDAR (Sep 2026)
 
 The test area is covered by **375 point-cloud tiles, about 82 GB**, from three 2018 USGS 3DEP collections:

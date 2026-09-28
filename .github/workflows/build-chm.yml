@@ -8,7 +8,7 @@ on:
         default: "25.8679,-81.1540"
       tiles:
         description: "How many LiDAR tiles (each ~200 MB)"
-        default: "3"
+        default: "4"
 
 permissions:
   contents: write
@@ -16,7 +16,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 240
     env:
       TARGET: ${{ inputs.target }}
       TILES: ${{ inputs.tiles }}
