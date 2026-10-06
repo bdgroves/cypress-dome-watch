@@ -10,7 +10,7 @@ Across Big Cypress National Preserve, bald cypress grow in round domes: short tr
 
 ---
 
-## Status: 🌱 scaffold
+## Status: 🌿 working
 
 | Piece | State |
 |---|---|
@@ -19,6 +19,16 @@ Across Big Cypress National Preserve, bald cypress grow in round domes: short tr
 | Landing page (`docs/index.html`) | ✅ placeholder |
 | Canopy height model pipeline (`src/build_chm.py`): picks tiles near a target, streams them through PDAL (ground → DTM, everything else → height above ground), mosaics, detects domes | ✅ built — run **Build canopy model** from Actions |
 | Map page: canopy height over satellite imagery, dome circles, Kirby Storter Boardwalk ground-truth pin | ✅ |
+
+### Third run (Oct 6, 2026): streamed, 36 km²
+
+The canopy model no longer downloads tiles. The same 2018 West Everglades topobathymetric survey is in the USGS Entwine Point Tile archive on AWS, so `src/chm_ept.py` streams it a 1 km square at a time (36 chunks in parallel on Actions, workflow **Canopy model (streamed)**): one PDAL pass per chunk, bathymetric bottom (class 40) counted as ground, height above the nearest ground points, tallest return per 1 m cell. The window is 6 × 6 km, centred 2 km south of the Kirby Storter Boardwalk so it sits fully inside the survey.
+
+- 89% of cells have returns; median canopy 1.4 m, 95th percentile 15.6 m, tallest 29.9 m
+- **166 dome candidates** (up from 12), with a radial height profile each (`profile_m`: mean canopy in rings of 0.2 radius out to 1.6 radii)
+- **150 of them rise more than 2 m from rim to centre**; the median rise is about 6 m. The site now shows the average dome.
+
+Next: Sentinel-1 radar (C-band double bounce lights up flooded forest) for a water time series per dome, then compare hydroperiod with the dome's shape.
 
 ### Second run (Sep 27, 2026): 4 tiles, isolation test on
 

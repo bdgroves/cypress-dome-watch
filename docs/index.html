@@ -72,9 +72,14 @@
     <p class="note" id="meta" style="margin-top:12px"></p>
   </section>
 
+  <section id="avgsec">
+    <h2>The average dome</h2>
+    <p class="muted">Every candidate scaled to the same size and stacked: mean canopy height from the centre out past the edge. The tallest trees stand in the middle and the canopy falls away steadily toward the rim. A tall centre is partly built in (the detector starts from high points), but the smooth slope is the dome shape, and the idea this project is testing is that it tracks the water: deepest and longest-lasting in the middle. Next step: check that against the water itself, from radar.</p>
+    <div id="avg" style="background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px;max-width:460px"></div>
+  </section>
   <section>
     <h2>How it works</h2>
-    <p>USGS 3DEP LiDAR is a laser survey flown from aircraft: billions of points, each classified as ground, vegetation or something else. For each tile, the ground points become a bare-earth surface, and every other point gets a height above it. Keeping the tallest point in each square meter gives a canopy height model.</p>
+    <p>USGS 3DEP LiDAR is a laser survey flown from aircraft: billions of points, each classified as ground, vegetation or something else. The canopy model is streamed straight from the USGS archive a square kilometre at a time, with no tiles downloaded. For each, the ground points become a bare-earth surface, and every other point gets a height above it. Keeping the tallest point in each square meter gives a canopy height model.</p>
     <p>The detector smooths that model to dome scale, finds local high points, grows each into a region, and keeps the ones that are round and dome-sized. Next: Sentinel-2 water indices for each dome, and a before-and-after look at the February 2026 Big Cypress fire.</p>
   </section>
 
@@ -87,6 +92,21 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
 const BOARDWALK = [25.867931, -81.154018];
+// mean canopy height in rings of 0.2 radius from the centre out to 1.6 radii
+function profileSvg(pr, w = 200, h = 70, max = null) {
+  if (!pr || !pr.length) return "";
+  const vals = pr.map(v => v ?? 0), top = max || Math.max(...vals, 1);
+  const X = i => 8 + i * (w - 16) / (vals.length - 1), Y = v => h - 14 - v / top * (h - 24);
+  const pts = vals.map((v, i) => `${X(i).toFixed(1)},${Y(v).toFixed(1)}`).join(" ");
+  const rim = X(5);
+  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-label="Canopy height from the dome centre outward">
+    <line x1="${rim}" x2="${rim}" y1="6" y2="${h - 14}" stroke="#1e3246" stroke-dasharray="3 3"/>
+    <polygon points="${X(0)},${h - 14} ${pts} ${X(vals.length - 1)},${h - 14}" fill="rgba(45,212,191,.18)"/>
+    <polyline points="${pts}" fill="none" stroke="#2dd4bf" stroke-width="2"/>
+    <text x="${X(0)}" y="${h - 2}" fill="#8aa0b4" font-size="9" font-family="monospace">centre</text>
+    <text x="${rim}" y="${h - 2}" fill="#8aa0b4" font-size="9" font-family="monospace" text-anchor="middle">edge</text>
+    <text x="${X(0) + 2}" y="${Y(vals[0]) - 4}" fill="#d7e3ee" font-size="9" font-family="monospace">${vals[0]} m</text></svg>`;
+}
 const viridis = t => {
   const s = [[68,1,84],[59,82,139],[33,145,140],[94,201,98],[253,231,37]];
   t = Math.max(0, Math.min(1, t)) * (s.length - 1);
@@ -115,7 +135,9 @@ Promise.all([
   const domeLayer = L.layerGroup(domes.features.map(f => {
     const p = f.properties, [lon, lat] = f.geometry.coordinates;
     return L.circle([lat, lon], { radius: p.diameter_m / 2, color: "#fff", weight: 1.5, fill: false })
-      .bindPopup(`<b>Dome candidate #${p.id}</b><br>${p.diameter_m} m across<br>peak canopy ${p.peak_height_m} m<br>roundness ${p.circularity}${p.ring_forest != null ? `<br>forest on surrounding ring ${Math.round(p.ring_forest*100)}%` : ""}`);
+      .bindPopup(`<b>Dome candidate #${p.id}</b><br>${p.diameter_m} m across · peak canopy ${p.peak_height_m} m<br>` +
+        (p.centre_rise_m != null ? `centre stands <b>${p.centre_rise_m} m</b> above the rim<br>${profileSvg(p.profile_m)}<br>` : "") +
+        `roundness ${p.circularity} · ${p.km_from_boardwalk} km from the boardwalk`);
   })).addTo(map);
   L.circleMarker(BOARDWALK, { radius: 7, color: "#0b1622", weight: 2, fillColor: "#f59e0b", fillOpacity: 1 })
     .bindPopup("<b>Kirby Storter Boardwalk</b><br>Wet prairie → cypress dome rim → slough").addTo(map);
@@ -125,13 +147,18 @@ Promise.all([
   document.getElementById("op").oninput = e => chm.setOpacity(e.target.value / 100);
 
   const s = meta.stats_m;
+  const area = (meta.window.size_m / 1000) ** 2;
   document.getElementById("stats").innerHTML = [
-    [meta.n_domes, "dome candidates"], [s.p95 + " m", "95th pct canopy"],
-    [s.max + " m", "tallest canopy"], [meta.tiles.length, "LiDAR tiles"],
+    [meta.n_domes, "dome candidates"], [meta.domes_rising_to_centre, "rise toward the centre"],
+    [s.p95 + " m", "95th pct canopy"], [area + " km²", "of LiDAR, streamed"],
   ].map(([v, l]) => `<div class="stat"><b>${v}</b><span>${l}</span></div>`).join("");
+  // the average dome, every candidate scaled to the same radius
+  const prs = domes.features.map(f => f.properties.profile_m).filter(Boolean);
+  const avg = prs[0].map((_, i) => +(prs.reduce((a, p) => a + (p[i] ?? 0), 0) / prs.length).toFixed(1));
+  document.getElementById("avg").innerHTML = profileSvg(avg, 420, 150, Math.max(...avg) * 1.15);
   document.getElementById("meta").innerHTML =
-    `Survey <b>${meta.survey}</b> · ${meta.cell_m} m cells · centered on ${meta.target.join(", ")}. ` +
-    `These are candidates, not confirmed domes: check them against the imagery by toggling the canopy layer off.`;
+    `${meta.source} · ${meta.cell_m} m cells · ${meta.window.size_m / 1000} × ${meta.window.size_m / 1000} km in ${meta.window.chunks} chunks, ` +
+    `${Math.round(meta.coverage * 100)}% with laser returns. These are candidates, not confirmed domes: check them against the imagery by toggling the canopy layer off.`;
 });
 </script>
 </body>
