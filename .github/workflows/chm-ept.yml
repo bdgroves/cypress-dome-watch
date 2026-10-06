@@ -1,0 +1,89 @@
+name: Canopy model (streamed)
+
+# A 6 x 6 km canopy height model streamed from the 3DEP point-cloud archive in
+# 1 km chunks, then a mosaic, dome detection and radial height profiles.
+on:
+  workflow_dispatch:
+    inputs:
+      center:
+        description: "lat,lon of the window centre"
+        default: "25.8498,-81.1540"
+      size_m:
+        description: "window size, metres"
+        default: "6000"
+
+permissions:
+  contents: write
+
+env:
+  CENTER: ${{ inputs.center }}
+  SIZE_M: ${{ inputs.size_m }}
+  CHUNK_M: "1000"
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      chunks: ${{ steps.p.outputs.chunks }}
+    steps:
+      - uses: actions/checkout@v5
+      - id: p
+        run: |
+          pip install -q pyproj numpy rasterio >/dev/null
+          echo "chunks=$(python3 src/chm_ept.py chunks)" >> "$GITHUB_OUTPUT"
+
+  chunk:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 12
+      matrix:
+        i: ${{ fromJSON(needs.plan.outputs.chunks) }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: prefix-dev/setup-pixi@v0.9.0
+        with:
+          cache: false
+          locked: false
+      - name: Stream one chunk
+        run: |
+          set -o pipefail
+          pixi run python src/chm_ept.py chunk ${{ matrix.i }} 2>&1 | tee chunk.log
+          grep "^=" chunk.log | sed 's/^/::notice::/' || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: chunk-${{ matrix.i }}
+          path: data/chunks/
+          retention-days: 3
+
+  mosaic:
+    needs: chunk
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: chunk-*
+          path: data/chunks
+          merge-multiple: true
+      - uses: prefix-dev/setup-pixi@v0.9.0
+        with:
+          cache: false
+          locked: false
+      - name: Mosaic, domes, profiles
+        run: |
+          set -o pipefail
+          pixi run python src/chm_ept.py mosaic 2>&1 | tee mosaic.log
+          grep "^=" mosaic.log | sed 's/^/::notice::/' || true
+          cp mosaic.log docs/data/build.log
+      - name: Commit
+        run: |
+          git config user.name "cypress-dome-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data
+          git diff --cached --quiet && exit 0
+          git commit -m "data: streamed 6 km canopy model, domes and profiles"
+          git pull --rebase -q && git push
