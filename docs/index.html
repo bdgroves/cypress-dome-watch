@@ -14,7 +14,9 @@
   }
   * { box-sizing: border-box; }
   body { margin: 0; background: var(--navy); color: var(--text); font: 17px/1.6 -apple-system, "Segoe UI", Inter, sans-serif; padding-inline: 20px; }
-  main { max-width: 1040px; margin: 0 auto; padding-block: 56px 72px; }
+  main { max-width: 1040px; margin: 0 auto; padding-block: 28px 72px; }
+  .sitenav { display: flex; flex-wrap: wrap; gap: 6px 18px; font: 12px var(--mono); letter-spacing: .06em; margin-bottom: 30px; }
+  .sitenav a { color: var(--muted); text-decoration: none; } .sitenav a:hover { color: var(--teal); }
   .k { font: 600 12px/1 var(--mono); letter-spacing: .16em; text-transform: uppercase; color: var(--teal); }
   h1 { font-size: clamp(36px, 6vw, 58px); line-height: 1.04; margin: 14px 0 18px; letter-spacing: .01em; text-wrap: balance; }
   h2 { font-size: clamp(21px, 3vw, 27px); margin: 0 0 8px; text-wrap: balance; }
@@ -47,6 +49,7 @@
 </head>
 <body>
 <main>
+  <nav class="sitenav" aria-label="Site"><a href="https://brooksgroves.com/">← brooksgroves.com</a><a href="https://brooksgroves.com/blog/cypress-domes-post.html">The story</a><a href="https://brooksgroves.com/geospatial.html">More geospatial projects</a><a href="https://github.com/bdgroves/cypress-dome-watch">Code</a></nav>
   <div class="k">CYPRESS-DOME-WATCH · GeoAI &amp; Remote Sensing Lab</div>
   <h1>Reading water from the shape of a forest</h1>
   <p class="lede">Across Big Cypress National Preserve, bald cypress grow in round domes: short trees at the dry edge, the tallest at the deep, wet center. From above, a dome's height profile is a map of the water beneath it. This project finds the domes automatically in airborne LiDAR.</p>
@@ -84,7 +87,7 @@
   </section>
 
   <footer>
-    Brooks Groves · <a href="https://brooksgroves.com">brooksgroves.com</a> · <a href="https://github.com/bdgroves/cypress-dome-watch">GitHub</a><br>
+    Brooks Groves · <a href="https://brooksgroves.com">brooksgroves.com</a> · <a href="https://brooksgroves.com/blog/cypress-domes-post.html">the story behind it</a> · <a href="https://github.com/bdgroves/cypress-dome-watch">GitHub</a><br>
     LiDAR: USGS 3D Elevation Program · Imagery: Esri, Maxar, Earthstar Geographics
   </footer>
 </main>
